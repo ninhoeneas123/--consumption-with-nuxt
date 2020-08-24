@@ -1,5 +1,4 @@
 <template>
-  
   <div class="container">
     <v-list >
       <v-list-title>
