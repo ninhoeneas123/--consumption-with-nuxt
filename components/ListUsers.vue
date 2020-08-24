@@ -50,6 +50,6 @@
     margin-top: 20px;
   }
   .bottom{
-   margin-bottom:20px;
+    margin-bottom:20px;
   }
 </style>
